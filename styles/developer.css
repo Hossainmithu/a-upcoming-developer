@@ -164,7 +164,7 @@
   line-height: 20px;
   letter-spacing: 0%;
   text-align: center;
-  padding: 10px 20px;
+  padding: 10px 50px;
   margin-bottom: 50px;
 }
 
@@ -175,4 +175,53 @@
   width: 1420px;
   height: 820px;
   padding: 50px;
+}
+
+
+.current-target-sec-heading {
+  color: rgb(13, 19, 33);
+  font-family: Azeret Mono;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 68px;
+  letter-spacing: 0%;
+  text-align: center;
+  margin: 24px 0px;
+  padding-top: 50px;
+}
+
+.current-target-sec-description {
+  color: rgb(13, 19, 33);
+  font-family: Azeret Mono;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: 0%;
+  text-align: center;
+  padding: 10px 40px;
+  margin-bottom: 50px;
+}
+
+.target-sec-container {
+  display: flex;
+  margin: 50px 220px;
+  gap: 24px;
+}
+
+.target-sec-box-1 {
+  padding: 32px;
+  border-radius: 16px;
+  background: rgba(255, 76, 30, 0.05);
+}
+
+.target-sec-box-2 {
+  border-radius: 16px;
+  background: rgba(0, 76, 232, 0.05);
+  padding: 32px;
+}
+
+.target-sec-box-3 {
+  border-radius: 16px;
+  background: rgba(255, 223, 0, 0.05);
+  padding: 32px;
 }
