@@ -267,6 +267,7 @@ body {
   line-height: 26px;
   letter-spacing: 0%;
   text-align: center;
+  padding-bottom: 50px;
 }
 
 .input-sec {
@@ -303,3 +304,24 @@ body {
   letter-spacing: 0%;
   text-align: center;
 }
+
+
+.footer {
+  display: flex;
+  border-radius: 16px;
+  background: rgba(13, 19, 33, 0.03);
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 50px;
+  padding: 50px 220px;
+}
+
+.footer-heading {
+  color: rgb(13, 19, 33);
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 23px;
+  text-align: center;
+}
+
+.footer-img {}
